@@ -3,7 +3,8 @@
     <img src="https://i.imgur.com/jTdznYS.jpeg" alt="UEL">
   </a>
 </p>
-## 👥 GROUP 3 MEMBERS
+
+## 👥 GROUP MEMBERS
 
 <table>
   <tr>
@@ -82,5 +83,13 @@ This project is a machine learning application that predicts customer churn for 
 ---
 
 ## 📂 Folder Structure
+
+- SourceCode: Full source code including ML models and PyQt6-based GUI
+- Product demo video showcasing app functionality
+
+---
+
+## 📊 Dataset
+We used the dataset Bank Customer Churn Prediction from Kaggle.
 
 
