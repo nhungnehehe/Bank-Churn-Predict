@@ -1,3 +1,44 @@
+<p align="center">
+  <a href="https://www.uel.edu.vn/" title="University of Economics and Law - VNU HCMC">
+    <img src="https://i.imgur.com/jTdznYS.jpeg" alt="UEL">
+  </a>
+</p>
+## 👥 GROUP 3 MEMBERS
+
+<table>
+  <tr>
+    <th align="center">No.</th>
+    <th align="center">Full Name</th>
+    <th align="center">GitHub</th>
+    <th align="center">Email</th>
+  </tr>
+  <tr>
+    <td align="center">1</td>
+    <td align="center">Phạm Tuyết Nhung<br/><i>(Group Leader)</i></td>
+    <td align="center"><a href="https://github.com/nhungnehehe">nhungnehehe</a></td>
+    <td align="center">nhungpt22411c@st.uel.edu.vn</td>
+  </tr>
+  <tr>
+    <td align="center">2</td>
+    <td align="center">Nguyễn Trần Thanh Huyền</td>
+    <td align="center"><a href="https://github.com/thhuyenn19">thhuyenn19</a></td>
+    <td align="center">huyennntt22411c@st.uel.edu.vn</td>
+  </tr>
+  <tr>
+    <td align="center">3</td>
+    <td align="center">Vũ Quỳnh Như</td>
+    <td align="center"><a href="https://github.com/qnhu11">qnhu11</a></td>
+    <td align="center">nhuvq22411c@st.uel.edu.vn</td>
+  </tr>
+  <tr>
+    <td align="center">4</td>
+    <td align="center">Lê Nguyễn Minh Thảo</td>
+    <td align="center"><a href="https://github.com/lnmthao">lnmthao</a></td>
+    <td align="center">thaolnm22411c@st.uel.edu.vn</td>
+  </tr>
+</table>
+
+---
 
 # ChurnCast – Customer Churn Prediction for Banks
 
@@ -30,23 +71,13 @@ This project is a machine learning application that predicts customer churn for 
 
 ---
 
-## 🖥 Interface Preview
-
-| Login Screen | Prediction Screen | Visualization |
-|--------------|-------------------|----------------|
-| ![login](screenshots/login.png) | ![predict](screenshots/predict.png) | ![charts](screenshots/chart.png) |
-
-> *(Add your screenshots in a `screenshots/` folder for these images to show)*
-
----
-
 ## 🛠 Tools & Technologies
 
 - Python (Pandas, Scikit-learn, XGBoost, SMOTE)
 - PyQt6 (GUI)
 - MySQL (Database)
 - GitHub, VS Code
-- `joblib` for saving models
+
 
 ---
 
